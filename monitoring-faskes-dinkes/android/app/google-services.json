@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13426228337",
+    "project_id": "monitoringfaskesdinkes",
+    "storage_bucket": "monitoringfaskesdinkes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13426228337:android:e15962bf3f23b77618afd0",
+        "android_client_info": {
+          "package_name": "com.example.monitoring_faskes_dinkes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOtMNaasWEEzqn9kbwKJ97tRSbjUbDj2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
